@@ -1,0 +1,12 @@
+*__pycache__
+/venv/
+/sm-venv/
+/.idea/
+/.env
+virtualenv.pyz
+uids_info.txt
+uids_zabota.txt
+uids_rop.txt
+spreadsheetmailing.log
+spreadsheetmailing.out
+cred.json
